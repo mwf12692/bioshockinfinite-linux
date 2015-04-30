@@ -57,6 +57,18 @@ Steam should start to update the game, and the name in Library will change to in
 
 # Announcements
 
+30 April 2015 21:40 GMT - New version available, Steam BuildID 604493
+
+This build should address the following issues:
+
+* The game should now work correctly on all filesystems, including XFS (issue #2)
+* Saved game timestamps should now be correct - unfortunately existing save points will continue to be incorrect (issue #12)
+* The side mouse buttons should now be usable
+* The monitor the game uses can now be set with --eon_force_display <monitor number>. Monitor number starts from 0 for the primary display (issue #3)
+
+Sometimes the game may still open its window on the wrong monitor, we are investigating this.
+Unfortunately we have not yet found the cause of the lockups that seem to mostly affect AMD processor users (issue #1, #9).  We are still investigating this.
+
 22 April 2015 17:00 GMT - GitHub tracker now available
 
 We've now got the go-ahead to offer an issue tracker for the game via GitHub, as we did with Witcher 2. We're already aware of a number of outstanding issues, and we're working on them.
