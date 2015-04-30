@@ -44,16 +44,7 @@ If you wish to show us your current configuration settings, these can be found a
 
 # Public Betas
 
-From time to time we may make public beta versions of the game available. Generally we do this when we feel we have made a significant fix or improvement that warrants wider public testing.  Note that the use of these is strictly voluntary.
-
-Usually, we release public betas via Steam first as it is the easiest method for this. When appropriate, we may issue a seperate download link to an archive, which is applicable to versions of the game that shipped outside of Steam.
-
-To opt into the public beta on Steam:
-* Select the game in Library, right click and select Properties from the menu
-* Select the "Betas" tab
-* On the dropdown you should see "linux_public_beta". Select it and then click CLOSE
-
-Steam should start to update the game, and the name in Library will change to indicate you are opted into the beta. If there is no "linux_public_beta" branch available, this indicates that there is currently no public beta version.
+Unfortunately we will not be able to offer public betas for this game.
 
 # Announcements
 
