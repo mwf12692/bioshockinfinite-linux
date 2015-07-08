@@ -64,6 +64,6 @@ This build should address the following issues:
 Sometimes the game may still open its window on the wrong monitor, we are investigating this.
 Unfortunately we have not yet found the cause of the lockups that seem to mostly affect AMD processor users (issue #1, #9).  We are still investigating this.
 
-22 April 2015 17:00 GMT - GitHub tracker now available
+**22 April 2015 17:00 GMT - GitHub tracker now available**
 
 We've now got the go-ahead to offer an issue tracker for the game via GitHub, as we did with Witcher 2. We're already aware of a number of outstanding issues, and we're working on them.
