@@ -48,6 +48,10 @@ Unfortunately we will not be able to offer public betas for this game.
 
 # Announcements
 
+8 July 2015 09:28 BST - New version available, Steam BuildID 655022
+
+This build should address the lockups that were mostly being seen on AMD processors.
+
 30 April 2015 21:40 GMT - New version available, Steam BuildID 604493
 
 This build should address the following issues:
